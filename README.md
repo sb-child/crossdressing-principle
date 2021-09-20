@@ -1,5 +1,10 @@
-# crossdressing-principle
-群主转正必读本子 群友伪娘原理
+# 《群友伪娘原理》
+群主转正必读本子: 《群友伪娘原理》
+
+欢迎pr!
+
+# 封面
+<img src="cover.svg" />
 
 # 良心许可证
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
