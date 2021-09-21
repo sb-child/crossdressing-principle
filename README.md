@@ -9,6 +9,7 @@
 # 托管站
 + https://github.com/sb-child/crossdressing-principle
 + https://gitee.com/sb-child/crossdressing-principle
++ (游客无权访问) https://sbc-io.xyz:81/gl/root-mirrors/crossdressing-principle
 
 # 封面
 源文件为svg格式, 因部分浏览器缺失字体, 故渲染为png格式.
