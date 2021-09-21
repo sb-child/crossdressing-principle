@@ -11,8 +11,8 @@
 + https://github.com/sb-child/unv-docs
 
 # 托管站
-+ https://github.com/sb-child/crossdressing-principle
-+ https://gitee.com/sb-child/crossdressing-principle
++ (主托管站) https://github.com/sb-child/crossdressing-principle
++ (备用) https://gitee.com/sb-child/crossdressing-principle
 + (游客无权访问) https://sbc-io.xyz:81/gl/root-mirrors/crossdressing-principle
 
 # 封面
