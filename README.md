@@ -4,12 +4,11 @@
 欢迎pr!
 
 # 资料
-https://github.com/sb-child/unv-docs
++ https://github.com/sb-child/unv-docs
 
-# 托管
-https://github.com/sb-child/crossdressing-principle
-
-https://gitee.com/sb-child/crossdressing-principle
+# 托管站
++ https://github.com/sb-child/crossdressing-principle
++ https://gitee.com/sb-child/crossdressing-principle
 
 # 封面
 源文件为svg格式, 因部分浏览器缺失字体, 故渲染为png格式.
