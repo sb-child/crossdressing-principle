@@ -3,6 +3,10 @@
 
 欢迎pr!
 
+# 灵感来源
++ https://github.com/RimoChan/rimochan-cookbook
++ 以及刷了好长时间的 wikipedia
+
 # 资料
 + https://github.com/sb-child/unv-docs
 
