@@ -4,7 +4,7 @@
 欢迎pr!
 
 # 灵感来源
-+ https://github.com/RimoChan/rimochan-cookbook
++ https://github.com/RimoChan/rimochan-cookbook 的《群主自慰原理》
 + 以及刷了好长时间的 wikipedia
 
 # 资料
