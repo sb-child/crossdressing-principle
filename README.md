@@ -1,15 +1,15 @@
-# 《群友伪娘原理》
-**本子正在编写, 想提前看干货请**[去隔壁](#资料)
+# 群主转正必读本子《群友伪娘原理》
+**本子正在编写, 想提前看干货请**[去隔壁](#资料来源)**看**[资料](https://github.com/sb-child/unv-docs)
 
-群主转正必读本子: 《群友伪娘原理》
+大家是不是很喜欢偷看好康的女孩子呢? 但她们不一定是你的, 而且你没有**完全控制权**, 只好忍气吞声的看着妹子们被抢走。这本子的初衷是让没有对象的男孩子们抛开旁人的诱惑, 尝试**做自己的对象**, 让另一个自己**完全受控**!
 
 欢迎pr!
 
 # 灵感来源
-+ https://github.com/RimoChan/rimochan-cookbook 的《群主自慰原理》
-+ 以及刷了好长时间的 wikipedia
++ 《群主自慰原理》: https://github.com/RimoChan/rimochan-cookbook
++ 以及 wikipedia
 
-# 资料
+# 资料来源
 + https://github.com/sb-child/unv-docs
 
 # 托管站
