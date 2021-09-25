@@ -3,6 +3,17 @@
 
 大家是不是很喜欢偷看好康的女孩子呢? 但她们不一定是你的, 而且你没有**完全控制权**, 只好忍气吞声的看着妹子们被抢走。这本子的初衷是让没有对象的男孩子们抛开旁人的诱惑, 尝试**做自己的对象**, 让另一个自己**完全受控**!
 
+另外, 在此处拉两面好康的旗子:
+
+~~<sub>旗杆被我藏起来了</sub>~~
+
+<img alt="🏳️‍🌈" class="imga" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAP1BMVEVHcEz/AA7/AA6IAIKIAIKIAIKIAIKIAIL/AA7/AA7/AA760iATjz6IAIL/AA41WKD/UABfLJH9kRAcgVf/FAsYnWwDAAAAC3RSTlMAIM/vz79gIL9g75BI5akAAAB/SURBVHja7dDZDQMxDAPRsdfnJlHO/msN4BbEr7VeAQOChHBdc5jDmLCkbE45rc5pbmcCsglkmCYxGSYxMBFd6CfCSyRCe4c+ItxEIrR36C4Sob1DXxGeIhHaO/QW4SGiC1VNp9I0oQZF0SlAP/ydowP04t7TYWnV9XMjhMv6A7t0yD3vMT0sAAAAAElFTkSuQmCC">
+<img alt="🏳️‍⚧️" class="imga" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAJFBMVEVHcExbzvpbzvpbzvpbzvpbzvr1qbhbzvru7u6ovNnzusbPsslL/dk/AAAABnRSTlMAYCDPv++evUMBAAAAbUlEQVR42u3XOw7AMAgEUTA45HP/+0aJ0qfwFJa17wBTItZE1uVZA9K/TIsaFO3t9BrWn1IUIMy8EG5ZiLSCrBw6ILZBFFJortAOUUihuUInRGdEoblCF0Q/5D/sYccmBDVqsJlFDT9qioos6wbuaWTp7LravQAAAABJRU5ErkJggg==">
+
+一面是彩虹旗, 另一面是粉蓝白!
+
+~~<sub>懂了吧? 不懂去网上搜</sub>~~
+
 欢迎pr!
 
 # 灵感来源
