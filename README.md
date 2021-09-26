@@ -25,7 +25,7 @@
 
 # 托管站
 + (主托管站) https://github.com/sb-child/crossdressing-principle
-+ (号没了, 废弃) https://gitee.com/sb-child/crossdressing-principle
++ (备用, 随时可能被封) https://gitee.com/ban_yun_gong/crossdressing-principle
 + (游客无权访问) https://sbc-io.xyz:81/gl/root-mirrors/crossdressing-principle
 
 # 封面
