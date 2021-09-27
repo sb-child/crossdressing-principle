@@ -8,8 +8,8 @@
 
 ~~<sub>别问旗杆哪去了, 问就是被我藏起来了</sub>~~
 
-<img alt="lgbt" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAP1BMVEVHcEz/AA7/AA6IAIKIAIKIAIKIAIKIAIL/AA7/AA7/AA760iATjz6IAIL/AA41WKD/UABfLJH9kRAcgVf/FAsYnWwDAAAAC3RSTlMAIM/vz79gIL9g75BI5akAAAB/SURBVHja7dDZDQMxDAPRsdfnJlHO/msN4BbEr7VeAQOChHBdc5jDmLCkbE45rc5pbmcCsglkmCYxGSYxMBFd6CfCSyRCe4c+ItxEIrR36C4Sob1DXxGeIhHaO/QW4SGiC1VNp9I0oQZF0SlAP/ydowP04t7TYWnV9XMjhMv6A7t0yD3vMT0sAAAAAElFTkSuQmCC">
-<img alt="trans" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAJFBMVEVHcExbzvpbzvpbzvpbzvpbzvr1qbhbzvru7u6ovNnzusbPsslL/dk/AAAABnRSTlMAYCDPv++evUMBAAAAbUlEQVR42u3XOw7AMAgEUTA45HP/+0aJ0qfwFJa17wBTItZE1uVZA9K/TIsaFO3t9BrWn1IUIMy8EG5ZiLSCrBw6ILZBFFJortAOUUihuUInRGdEoblCF0Q/5D/sYccmBDVqsJlFDT9qioos6wbuaWTp7LravQAAAABJRU5ErkJggg==">
+<img alt="lgbt" src="./lgbt.png">
+<img alt="trans" src="./trans.png">
 
 一面是耀眼的**彩虹旗**, 另一面是清新的**粉蓝白**!
 
