@@ -18,6 +18,8 @@
 
 ~~这部小说是写给脑子有病的作者的(?)~~
 
+另外，这部小说真的**非常轻**！~~因为作者是个彻底的淫娃！~~
+
 灵感来自于《群主自慰原理》: https://github.com/RimoChan/rimochan-cookbook
 
 这部小说 *~~可能~~* 会涉及到:
@@ -46,6 +48,6 @@
 
 ## 许可证(license)
 
-这可能会劝退大部分读者...
+这可能会劝退大部分读者... ~~<sub>不过没关系，没人会强制让您怀孕的...</sub>~~
 + 许可证和许可范围见 [license](./LICENSE)
 + 详见 https://github.com/RimoChan/conception-license
