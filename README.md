@@ -26,7 +26,7 @@
 
 <img alt="lgbt" src="./lgbt.png">
 
-+ 清新的**粉蓝白**
++ 清新的**蓝粉白**
 
 <img alt="trans" src="./trans.png">
 
@@ -46,5 +46,6 @@
 
 ## 许可证(license)
 
+这可能会劝退大部分读者...
 + 许可证和许可范围见 [license](./LICENSE)
 + 详见 https://github.com/RimoChan/conception-license
