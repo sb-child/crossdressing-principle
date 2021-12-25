@@ -10,7 +10,7 @@
 
 源文件为svg格式, 因部分浏览器缺失字体, 故渲染为png格式.
 
-## 目录
+## 开始阅读
 
 [点这个链接!](./index/README.md)
 
@@ -52,6 +52,6 @@ nsfw 预警！开篇就很色色的！
 
 ## 许可证(license)
 
-这可能会劝退大部分读者... ~~<sub>不过没关系，没人会强制让您怀孕的...</sub>~~
+~~这可能会劝退大部分读者... <sub>不过没关系，没人会强制让您怀孕的...</sub>~~
 + 许可证和许可范围见 [license](./LICENSE)
 + 详见 https://github.com/RimoChan/conception-license
