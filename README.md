@@ -18,6 +18,8 @@
 
 ~~这部小说是写给脑子有病的作者的(?)~~
 
+nsfw 预警！开篇就很色色的！
+
 另外，这部小说真的**非常轻**！~~因为作者是个彻底的淫娃！~~
 
 灵感来自于《群主自慰原理》: https://github.com/RimoChan/rimochan-cookbook
@@ -32,13 +34,15 @@
 
 <img alt="trans" src="./trans.png">
 
+~~当您在公共场合发现有人佩戴了配色与以上两个旗相似的饰品时，请立刻捂住眼睛并向`/dev/null`汇报！~~
+
 ~~<sub>懂了吧? 不懂去网上搜</sub>~~
 
 ## 托管站
 
 + 主托管站 https://github.com/sb-child/crossdressing-principle
++ 备份站(照顾国内用户) https://sbc-io.xyz:81/gl/root-mirrors/crossdressing-principle
 + gitee(丢弃) ~~https://gitee.com/ban_yun_gong/crossdressing-principle~~
-+ 游客无权访问 https://sbc-io.xyz:81/gl/root-mirrors/crossdressing-principle
 
 ## 资料来源
 
