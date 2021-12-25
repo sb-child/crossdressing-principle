@@ -12,7 +12,7 @@
 
 ## 目录
 
-[传送门](./index/README.md)
+[点这个链接!](./index/README.md)
 
 ## 简介
 
