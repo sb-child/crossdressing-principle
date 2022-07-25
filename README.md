@@ -44,7 +44,7 @@ nsfw 预警！开篇就很色色的！
 
 + 主托管站 https://github.com/sb-child/crossdressing-principle
 + 备份站(照顾国内用户) https://sbc-io.xyz:81/gl/root-mirrors/crossdressing-principle
-+ 备份站(国内只读镜像) https://n3s1.sbc-io.xyz:3943/root-mirrors/crossdressing-principle
++ 备份站(国内只读镜像) https://n3s1.sbc-io.xyz:3943/main-mirrors/crossdressing-principle
 
 ## 资料来源
 
