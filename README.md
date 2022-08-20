@@ -4,7 +4,7 @@
 
 **在写了, 欢迎pr!**
 
-*本小说有一部分是 Github Copilot 写的...*
+*本小说有一小<sub>小<sub>小</sub></sub>部分是 Github Copilot 写的...*
 
 ## 封面
 
